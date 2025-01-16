@@ -1,4 +1,4 @@
-Hello, my name is Nicholas (Nick) Barth and I am a PhD student at the University of Florida's Department of Astronomy.
+Hello, my name is Nicholas (Nick) Barth and I am an Astrophysicist with a PhD from the University of Florida's Department of Astronomy.
 
 My research involves studying the rapid neutron capture process in metal poor star systems,
 specifically Ultra-Faint Dwarf Galaxies (UFDs) and Early-Type Elliptical Galaxies (ETGs)
